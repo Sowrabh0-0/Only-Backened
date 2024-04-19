@@ -1,0 +1,23 @@
+{
+  "name": "only-backened",
+  "version": "1.0.0",
+  "description": "Only_Backend with Node Express and Mongo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sowrabh0-0/Only-Backened.git"
+  },
+  "author": "Sowrabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sowrabh0-0/Only-Backened/issues"
+  },
+  "homepage": "https://github.com/Sowrabh0-0/Only-Backened#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
